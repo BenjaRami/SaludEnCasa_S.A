@@ -3,7 +3,6 @@ Informe sobre app para solicitar exámenes a domicilio "SaludEnCasa S.A"
 
 # 📱 SaludEnCasa Móvil - Documentación del Proyecto
 
-
 ## 📋 Descripción  
 Documento técnico que detalla el desarrollo de la aplicación móvil **"SaludEnCasa"** para la gestión de exámenes médicos domiciliarios. Incluye:  
 - Requisitos funcionales y no funcionales  
