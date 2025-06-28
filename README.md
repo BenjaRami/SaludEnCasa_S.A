@@ -3,7 +3,7 @@ Informe sobre app para solicitar exámenes a domicilio "SaludEnCasa S.A"
 
 # 📱 SaludEnCasa Móvil - Documentación del Proyecto
 
-![Banner de SaludEnCasa](https://ejemplo.com/banner-saludencasa.png) *(opcional: agregar imagen representativa)*
+![Banner de SaludEnCasa]([https://ejemplo.com/banner-saludencasa.png](https://ik.imagekit.io/BenjaR07/imagenes/1751081552119.png_image.png)) *(opcional: agregar imagen representativa)*
 
 ## 📋 Descripción  
 Documento técnico que detalla el desarrollo de la aplicación móvil **"SaludEnCasa"** para la gestión de exámenes médicos domiciliarios. Incluye:  
